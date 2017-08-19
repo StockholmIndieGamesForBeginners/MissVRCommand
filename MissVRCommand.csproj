@@ -75,6 +75,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DetonateMissileController.cs" />
+    <Compile Include="Assets\Scripts\MissileDetonator.cs" />
     <Compile Include="Assets\Scripts\MissileLaunchController.cs" />
     <Compile Include="Assets\Scripts\MissileLogic.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />

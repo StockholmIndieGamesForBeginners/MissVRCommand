@@ -10,7 +10,7 @@ public class MissileLogic : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
-                  
+	void FixedUpdate () {        
+        gameObject.transform.Translate(Vector3.up * -1.0f);              
     }
 }

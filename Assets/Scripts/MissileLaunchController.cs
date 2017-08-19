@@ -17,7 +17,8 @@ public class MissileLaunchController : MonoBehaviour {
 
         if( device.GetTouch( SteamVR_Controller.ButtonMask.Trigger))
         {
-            Instantiate(missile, transform, true);
+            GameObject localMissile = Instantiate(missile, transform.position, transform.rotation);
+
         }
     }
 }

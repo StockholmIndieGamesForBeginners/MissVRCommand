@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissVRCommand", "MissVRCommand.csproj", "{36B57667-17A8-AA13-7434-1528D944DBC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissVRCommand.Editor", "MissVRCommand.Editor.csproj", "{5AF36CC8-8E61-2451-9C3C-329980AFE8BA}"

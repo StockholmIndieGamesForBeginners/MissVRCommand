@@ -1,10 +1,5 @@
 Library/
 Temp/
+*.meta
 *.asset
 *.userprefs
-*.csproj
-Assets/SteamVR
-*.meta~HEAD
-*.csproj
-*.sln
-.DS_Store

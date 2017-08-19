@@ -3,3 +3,7 @@ Temp/
 *.meta
 *.asset
 *.userprefs
+*.csproj
+*.sln
+ProjectSettings/
+Assets/SteamVR/
